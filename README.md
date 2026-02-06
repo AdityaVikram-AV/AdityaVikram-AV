@@ -40,7 +40,7 @@ I work at the intersection of product, data, and engineering to deliver scalable
 
 - Extraction of Maximum Electrical Power from Solar Photovoltaic Based Grid-Tied System - Advances in Energy Technology - Springer
 - A Novel Fuzzy based Intelligent Demand Side Management for Automated Load Scheduling - IEEE
-- An Analytical Approach of Integrating Automated Load Scheduling to a Smart Energy Meter using Differential Evolution Algorithm
+- An Analytical Approach of Integrating Automated Load Scheduling to a Smart Energy Meter using Differential Evolution Algorithm - Institute of Physics IOP
 
 ---
 
