@@ -12,17 +12,10 @@ I work at the intersection of product, data, and engineering to deliver scalable
 
 ## Skills & Expertise
 
-**Product Management**
-- Product strategy and roadmapping, PRDs, user stories, and acceptance criteria, Agile, Scrum, Kanban, Stakeholder and cross-functional team leadership  
-
-**Analytics & Data**
-- SQL, Databricks, Amplitude, Power BI, Tableau, Excel, Adobe Analytics, Product instrumentation and experimentation  
-
-**Engineering & Tools**
-- Python, JavaScript, HTML, CSS, API design and integrations, Postman, ServiceNow, Zendesk, Figma, JIRA, Confluence, ClickUp  
-
-**AI & Machine Learning**
-- NLP and Computer Vision, Deep Learning fundamentals, Scikit-learn, TensorFlow, Keras, OpenAI GPT  
+- **Product Management** - Product strategy and roadmapping, PRDs, user stories, and acceptance criteria, Agile, Scrum, Kanban, Stakeholder and cross-functional team leadership  
+- **Analytics & Data** - SQL, Databricks, Amplitude, Power BI, Tableau, Excel, Adobe Analytics, Product instrumentation and experimentation
+- **Engineering & Tools**- Python, JavaScript, HTML, CSS, API design and integrations, Postman, ServiceNow, Zendesk, Figma, JIRA, Confluence, ClickUp, MIRO
+- **AI & Machine Learning** - NLP, Computer Vision, Deep Learning fundamentals, Scikit-learn, TensorFlow, Keras, OpenAI GPT, LLMs, AI Agents
 
 ---
 
