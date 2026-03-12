@@ -1,6 +1,6 @@
 # Aditya Vikram
 
-Product Manager with experience building and scaling AI-driven and data-intensive products across FMCG, retail, and enterprise platforms. Strong background in product strategy, analytics, and cross-functional leadership, with hands-on exposure to AI/ML systems and platform architecture.
+Tech Manager with experience building and scaling AI-driven and data-intensive products across FMCG, retail, and enterprise platforms. Strong background in product strategy, analytics, and cross-functional leadership, with hands-on exposure to AI/ML systems and platform architecture.
 
 ---
 
