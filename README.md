@@ -1,7 +1,6 @@
 # 🚀 Aditya Vikram
 
-**Tech Manager** | Building intelligent products at scale which provides value to the users
-*Bridging product strategy, AI architecture, user needs and engineering excellence*
+**Tech Manager** | Bridging business strategy, human-centered design, and engineering to build AI-powered products that solve real problems and scale globally.
 
 ---
 
