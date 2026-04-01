@@ -73,8 +73,8 @@ Funded research platform for dynamic energy management in buildings with integra
 
 - Programming & Software: Python, SQL, R, C/C++, MATLAB
 - Tools & Platforms: AWS, GCP, Azure, MySQL, Postman, Snowflake, Docker, Power BI, Tableau, Databricks, Adobe Analytics, Amplitude, Google Analytics, Looker
-- Frameworks: TensorFlow, PyTorch, Scikit-learn, Flask, HuggingFace, Amplitude, Linux, Bash Scripting, Ollama
-- Data Science: Predictive Modeling, Transformer Modelling, NLP, LLMs, Hyperparameter Tuning, Deep Learning, Optimization Algorithms, Computer Vision
+- Frameworks: TensorFlow, PyTorch, Scikit-learn, HuggingFace, Amplitude, Linux, Bash Scripting, Ollama
+- Data Science: Predictive Modeling, NLP, LLMs, Hyperparameter Tuning, Deep Learning, Optimization Algorithms, Computer Vision
 
 ---
 
