@@ -6,7 +6,7 @@
 
 ## 📊 What I Do
 
-I'm a product leader and AI engineer passionate about building intelligent systems that solve real-world problems. My work spans the entire AI product lifecycle—from identifying high-value AI opportunities and defining product-market fit, to architecting scalable systems and shipping production-ready applications.
+I'm a product leader and researcher passionate about building intelligent systems that solve real-world problems. My work spans the entire product lifecycle—from identifying high-value AI opportunities and defining product-market fit, to architecting scalable systems and shipping production-ready applications.
 
 **Key Accomplishments:**
 - 🤖 **Enterprise AI Scale**: Led nationwide deployment of AI-powered computer vision system achieving 97%+ accuracy across US, Europe, India, and Southeast Asia
